@@ -1,5 +1,5 @@
 {
-  "name": "javascript_project",
+  "name": "key",
   "version": "1.0.0",
   "description": "멋쟁이 사자처럼 자바스크립트 프로젝트",
   "main": "main.js",
@@ -24,5 +24,13 @@
     "npm-run-all": "^4.1.5",
     "postcss-import": "^15.1.0",
     "prettier": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haileyJiyu/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haileyJiyu/test/issues"
+  },
+  "homepage": "https://github.com/haileyJiyu/test#readme"
 }
